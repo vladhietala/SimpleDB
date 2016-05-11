@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_2b7350fa728b23e6e525e9feda06a33013c52082.jar" />
+    </item>
+    <item
+        jar="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_11254a5403b965dcf73a09fce2c05197aed65acd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vlad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_33e318b1d903740ee146cc330f06d6ece8fdef6e.jar" />
+    </item>
+    <item
+        jar="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_2a458184ba1d64c7ebe236a1e16aca835c0b9b69.jar" />
+    </item>
+    <item
+        jar="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_c7e1fef426554b5837b02791d6a14a0bc95274f6.jar" />
+    </item>
+    <item
+        jar="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\Vlad\AndroidStudioProjects\SimpleDB\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_907e253444e4a36d91d7ad50a33c2bef11b88721.jar" />
+    </item>
+
+</items>
